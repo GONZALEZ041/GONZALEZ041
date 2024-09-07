@@ -3,7 +3,6 @@
 
 **GONZALEZ041** 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Walmart Chile.
 - 🌱 Hoy dia learning tecnologias como HTML, CSS, Bootstrap, JavaScript, Python, Django, y Analisis de Datos.
